@@ -15,9 +15,10 @@ Here is the folder structure:
 Technologies used in this project:
 1. Image downloader - Imageeye extension for data collection
 2. Python
-3. Numpy and OpenCV for data cleaning
+3. Numpy for data cleaning
 4. Matplotlib & Seaborn for data visualization
-5. Sklearn for model building
-6. Visual studio code as IDE
-7. Python flask for http server
-8. HTML/CSS/Javascript for UI
+5. OpenCV for Face recognition algorithm
+6. Sklearn for model building
+7. Visual studio code as IDE
+8. Python flask for http server
+9. HTML/CSS/Javascript for UI
